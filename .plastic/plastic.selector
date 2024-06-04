@@ -1,0 +1,4 @@
+repository "SandsOfRememberenceFinal@silagun@cloud"
+  path "/"
+    br "/main"
+    co "/main"
